@@ -18,12 +18,11 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 
+
 gems:
-  # - github-pages
+  - github-pages"
   - jekyll-paginate
   - jekyll-compose
-
-# group: :jekyll_plugins
 
 paginate: 6
 paginate_path: "blog/page:num"
